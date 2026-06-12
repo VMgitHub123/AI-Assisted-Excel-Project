@@ -17,7 +17,7 @@ This project analyzes Amazon product data using Python and Excel.
 
 ## Files
 - script.py
-- raw_data.csv
+- amazon.csv
 - cleaned_data.csv
 - analysis.xlsx
 
